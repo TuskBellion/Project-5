@@ -2,3 +2,8 @@
 .navbar-brand img{
     width: 130px;
 }
+.subcribe{
+    background-image: url(./img/subscribe.jpg);
+    background-size: cover; /* tự động dãn ảnh theo khung mà nó chứa  */
+    background-position: center; /* căn giữa ảnh */
+}
