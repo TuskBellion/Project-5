@@ -7,3 +7,7 @@
     background-size: cover; /* tự động dãn ảnh theo khung mà nó chứa  */
     background-position: center; /* căn giữa ảnh */
 }
+.blur-filter{
+    backdrop-filter: blur(8px); /* làm mờ nền */
+    background-color: #FFFFFF4D;
+}
